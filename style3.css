@@ -17,6 +17,7 @@ header{
     float: left;
     padding: 10px;
     justify-content: center;
+    text-align:center;
 }
 a{
     text-decoration: none;
